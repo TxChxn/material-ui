@@ -181,4 +181,4 @@ BrowserStack allows us to test in real browsers.
 
 CodeCov allows us to monitor the test coverage.
 
-folkk
+folk
